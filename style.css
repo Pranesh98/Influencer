@@ -1,0 +1,16 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-bar{
+    display:flex;
+    justify-content: space-around;
+
+}
+.nav-links{
+    display:flex;
+}
+.heading{
+    font-weight: 700;
+    font-size: 24px;
+}
