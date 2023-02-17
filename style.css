@@ -1,16 +1,29 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
-
 .nav-bar{
     display:flex;
-    justify-content: space-around;
-
+    justify-content: space-between;
+    margin: 0 140px;
 }
 .nav-links{
     display:flex;
+    
 }
 .heading{
     font-weight: 700;
     font-size: 24px;
+}
+.banner{
+    display: flex;
+}
+.banner-left{
+    width: 582px;
+    height: 270px;
+    padding: 140px 0px 170px 140px;
+}
+.banner-right{
+    width: 440px;
+    height: 414px;
+    margin: 80px 165px 100px 133px;
 }
